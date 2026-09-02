@@ -1,2 +1,2 @@
 # factorial
-program for factorial
+new program for factorial
